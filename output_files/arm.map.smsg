@@ -1,0 +1,5 @@
+Info (10281): Verilog HDL Declaration information at arm.sv(7): object "INport" differs only in case from object "inport" in the same scope File: C:/Users/Agustin/Desktop/Prueba/arm.sv Line: 7
+Info (10281): Verilog HDL Declaration information at arm.sv(8): object "OUTport" differs only in case from object "outport" in the same scope File: C:/Users/Agustin/Desktop/Prueba/arm.sv Line: 8
+Warning (10273): Verilog HDL warning at arm.sv(126): extended using "x" or "z" File: C:/Users/Agustin/Desktop/Prueba/arm.sv Line: 126
+Warning (10273): Verilog HDL warning at arm.sv(140): extended using "x" or "z" File: C:/Users/Agustin/Desktop/Prueba/arm.sv Line: 140
+Warning (10273): Verilog HDL warning at arm.sv(282): extended using "x" or "z" File: C:/Users/Agustin/Desktop/Prueba/arm.sv Line: 282
